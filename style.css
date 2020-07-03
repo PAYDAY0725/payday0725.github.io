@@ -1,0 +1,24 @@
+body{ background: #2d2d2d; }
+
+header{ background: yellow;
+        color: #2d2d2d;
+        font-size: 60px;
+        text-align: center;}
+
+img{ display: block; }
+
+figure.logo{ float: left;
+             margin-left: 500px;
+             vertical-align: top;
+             vertical-align: bottom;}
+figure.members{ margin-left: 1000px;
+                height:110px;
+                margin-top: 150px;
+                margin-bottom: 0px;}
+figure.missions{ margin-top: 0px;}
+figure.contact{ margin-left: 1000px;
+                margin-top: 0px;
+                width:100px;}
+
+footer{ color: #8a8b92;
+        text-align: center;}
