@@ -1,10 +1,28 @@
-body{ background: #2d2d2d; }
+body{ background: #2d2d2d;
+      color: #f1ecec;
+      margin: 0; }
 
-header{ color: #b0c4de;;
-        font-size: 80px;
-        text-align: center;}
+header{ text-align: left;
+        padding: 5px;
+        padding-top: 7px;
+        background: #483c3c; }
 
-figure.logo{ text-align: center;}
+div{  background: #898989;
+      width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 30px;
+      border-radius: 30px;
+      clear: left;
+      overflow: hidden;
+      box-shadow: 3px 3px 6px #f9f9f9; }
+
+
+img.as{ float: left;
+        margin: 20px; }
+
+figure.logo{ text-align: center; }
 
 footer{ color: #8a8b92;
-        text-align: center;}
+        text-align: center;
+        background: #483c3c; }
