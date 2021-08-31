@@ -6,6 +6,7 @@ header{ text-align: left;
         padding: 5px;
         padding-top: 7px;
         background: #483c3c; }
+.youtube{  text-align: center;  }
 
 h2{  text-decoration: underline;  }
 
@@ -20,10 +21,8 @@ div{  background: #898989;
       box-shadow: 3px 3px 6px #f9f9f9; }
 
 
-img.as{ float: left;
+.as{    float: left;
         margin: 20px; }
-
-figure.logo{ text-align: center; }
 
 footer{ color: #8a8b92;
         text-align: center;
